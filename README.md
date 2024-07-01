@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Krishnan! 👋</h1>
 <h3 align="center">A hungry coder addicted to solving bugs</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subru-37&label=Profile%20views&color=0e75b6&style=flat" alt="@subru-37" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanx&label=Profile%20views&color=0e75b6&style=flat" alt="@subru-37" /> </p>
 <p>
   
 - 👯 I’m looking to collaborate on **Exciting Projects**
