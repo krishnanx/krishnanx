@@ -5,7 +5,7 @@
   
 - 👯 I’m looking to collaborate on **Exciting Projects**
   
-- 🌱 I’m currently looking to contribute on **Full Stack development using React, Node.Js and Django**
+- 🌱 I’m currently looking to contribute on **Front end development**
   
 - 📫 How to reach me ... text me **@9567355842**
   
