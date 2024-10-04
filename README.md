@@ -5,7 +5,7 @@
   
 - 👯 I’m looking to collaborate on **Exciting Projects**
   
-- 🌱 I’m currently looking to contribute on **Front end development**
+- 🌱 I’m currently looking to contribute on **Front-end and Back-end development**
   
 - 📫 How to reach me ... text me **@9567355842**
   
