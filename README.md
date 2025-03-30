@@ -20,7 +20,7 @@
 </p>
 <br>
 <p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanx&show_icons=true&theme=merko&count_private=true&show_icons=true&border_radius=7"/>
-<img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanx&theme=merko&exclude_repo=github-readme-stats,dsp-lab,Scientific-computing-lab,day2material,IBM-Workshop,Number-Plate-Recognizing-System&layout=compact"/></p>
+<img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanx&theme=merko&layout=compact"/></p>
 <br>
 <h2 align="center">Languages and skills</h2>
 
