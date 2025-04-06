@@ -24,7 +24,7 @@
 <br>
 <h2 align="center">Languages and Skills</h2>
 
-<h3 align="center">🖥️ Frontend</h3>
+<h3 align="start">🖥️ Frontend</h3>
 <div align="start">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="90" height="30" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" width="120" height="30" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white" alt="Chakra UI" width="110" height="30" />
 </div>
 
-<h3 align="center">🛠️ Backend</h3>
+<h3 align="start">🛠️ Backend</h3>
 <div align="start">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="110" height="30" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" width="110" height="30" />
@@ -43,13 +43,13 @@
   <img src="https://img.shields.io/badge/NoSQL-FFCA28?style=flat&logo=firebase&logoColor=black" alt="NoSQL" width="120" height="30" />
 </div>
 
-<h3 align="center">🧠 State Management</h3>
+<h3 align="start">🧠 State Management</h3>
 <div align="start">
   <img src="https://img.shields.io/badge/React%20Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="React Redux" width="120" height="30" />
   <img src="https://img.shields.io/badge/Riverpod-009688?style=flat&logo=riverpod&logoColor=white" alt="Riverpod" width="100" height="30" />
 </div>
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="start">💻 Programming Languages</h3>
 <div align="start">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" width="100" height="30" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="110" height="30" />
