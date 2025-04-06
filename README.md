@@ -46,6 +46,7 @@
 <h3 align="center">🧠 State Management</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="React Redux" width="120" height="30" />
+  <img src="https://img.shields.io/badge/Riverpod-009688?style=flat&logo=riverpod&logoColor=white" alt="Riverpod" width="100" height="30" />
 </div>
 
 <h3 align="center">💻 Programming Languages</h3>
@@ -54,6 +55,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="110" height="30" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="100" height="30" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" width="90" height="30" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="90" height="30" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" width="80" height="30" />
   <img src="https://img.shields.io/badge/Arduino%20C++-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino C++" width="130" height="30" />
 </div>
 
@@ -62,5 +65,3 @@
   <img src="https://img.shields.io/badge/ESP32-75AADB?style=flat&logo=espressif&logoColor=white" alt="ESP32" width="100" height="30" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" width="100" height="30" />
 </div>
-
-
