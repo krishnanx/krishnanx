@@ -22,7 +22,7 @@
 <p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanx&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&border_radius=7"/>
 <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanx&theme=tokyonight&layout=compact"/></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanx&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanx&count_private=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <br>
 <h2 align="center">Languages and Skills</h2>
