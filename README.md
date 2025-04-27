@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I’m Krishnan! 👋</h1>
-<h3 align="center">A hungry coder addicted to solving bugs</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanx&label=Profile%20views&color=0e75b6&style=flat" alt="@subru-37" /> </p>
+<h3 align="center">React Native | Flutter | Fast API developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanx&label=Profile%20views&color=0e75b6&style=flat" alt="krishnanx" /> </p>
 <p>
   
 - 👯 I’m looking to collaborate on **Exciting Projects**
   
 - 🌱 I’m currently looking to contribute on **Front-end and Back-end development**
-  
-- 📫 How to reach me ... text me **@9567355842**
-  
-- 💬 Ask me about **Frontend Development**
   
 - 📄 Know about my experiences at my [LinkedIn profile](https://www.linkedin.com/in/krishnan-e-7a1112202/)
 </p>
@@ -19,8 +15,15 @@
 <a href="https://www.instagram.com/xkrishnanx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subru_37" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanx&show_icons=true&theme=merko&count_private=true&show_icons=true&border_radius=7"/>
-<img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanx&theme=merko&layout=compact"/></p>
+
+
+
+
+<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanx&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&border_radius=7"/>
+<img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanx&theme=tokyonight&layout=compact"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanx&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <br>
 <h2 align="center">Languages and Skills</h2>
 
@@ -84,4 +87,6 @@
 <div align="start">
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" width="110" height="30" />
 </div>
+
+
 
