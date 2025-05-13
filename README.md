@@ -11,7 +11,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/krishnan-e-7a1112202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subru-37" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishnan-e-7a1112202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/xkrishnanx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subru_37" height="30" width="40" /></a>
 </p>
 <br>
@@ -19,10 +19,14 @@
 
 
 
-<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanx&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&border_radius=7"/>
-<img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanx&theme=tokyonight&layout=compact"/></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanx&&show=prs_merged&theme=tokyonight&count_private=true&show_icons=true&border_radius=7"/>
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanx&theme=tokyonight&layout=compact"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanx&count_private=true&theme=tokyonight" alt="GitHub Streak" />
+  
 </p>
 <br>
 <h2 align="center">Languages and Skills</h2>
