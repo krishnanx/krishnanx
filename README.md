@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" width="110" height="30" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" width="90" height="30" />
   <img src="https://img.shields.io/badge/NoSQL-FFCA28?style=flat&logo=firebase&logoColor=black" alt="NoSQL" width="120" height="30" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" width="100" height="30" />
 </div>
 
 <h3 align="start">🛰️ Real-Time Communication</h3>
